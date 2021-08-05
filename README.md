@@ -14,7 +14,9 @@ Currently working in *Software Engineering Division* as a ***Frontend Developer*
 - React Web/Native (*Hooks, Context API, Redux*)
 - NextJS
 - Express JS
-- Docker, Netlify, Firebase, Mongo Cloud/mLab, Heroku, Mysql, PostgreSQL
+- PHP
+- Laravel
+- Docker, Netlify, Vercel, Firebase, Mongo Cloud/mLab, Heroku, Mysql, PostgreSQL
 
 ### 🔍 Currently Learning:
 - Design Pattern
