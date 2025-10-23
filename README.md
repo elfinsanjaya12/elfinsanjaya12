@@ -25,7 +25,7 @@ Combining human creativity with AI capabilities to build innovative and efficien
 
 ## 💼 Professional Experience
 
-**Fullstack Developer** @ **[Tree-Tree](https://www.tree-tree.com/)** · *Present*
+**Fullstack Developer** @ **[Tree-Tree](https://www.tree-tree.com/)** · *Jan 2022 - Present*
 - Building scalable full-stack applications with modern tech stack
 - Implementing AI-assisted development workflows
 
@@ -33,7 +33,7 @@ Combining human creativity with AI capabilities to build innovative and efficien
 - Teaching MERN Stack (MongoDB, Express.JS, Node.JS, React.JS, Next.JS, TypeScript)
 - Mentoring students through real-world projects like Hotel Booking System
 
-**Co-Founder & Developer** @ **[Erai Tech](https://www.erai-tech.com/)** · *Present*
+**Co-Founder & Developer** @ **[Erai Tech](https://www.erai-tech.com/)** · *July 2025 - Present*
 - Building Point of Sales (POS) application
 - Developing modern web applications and digital products
 
