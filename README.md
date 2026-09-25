@@ -1,154 +1,352 @@
 # 👨‍💻 Elfin Sanjaya
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Fullstack+Mentor;AI-Powered+Development;Building+Modern+Applications)](https://git.io/typing-svg)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfinsanjaya12&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/elfinsanjaya12)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elfinsanjaya12&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/elfinsanjaya12)
+### Fullstack Developer · Software Builder · Mentor
+
+**Building scalable digital products, SaaS, and business systems with modern technologies & AI-assisted development.**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=650&lines=Fullstack+Developer+%7C+6%2B+Years+Experience;Building+SaaS+%26+Business+Applications;Founder+%40+Erai+Tech;Fullstack+Mentor+%40+BuildWithAngga;AI-Powered+Software+Development)](https://git.io/typing-svg)
+
+[![GitHub](https://img.shields.io/badge/GitHub-elfinsanjaya12-181717?style=for-the-badge&logo=github)](https://github.com/elfinsanjaya12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elfin_Sanjaya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfin-sanjaya-15a266176/)
+[![Website](https://img.shields.io/badge/Portfolio-Visit_Website-2D9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elfin.erai-tech.com/)
 
 </div>
+
+---
 
 ## 🚀 About Me
 
-Hey there! 👋 I'm **Elfin Sanjaya**, a **Fullstack Developer** and **Mentor** with 6+ years of experience building modern web and mobile applications.
+Hi! I'm **Elfin Sanjaya**, a **Fullstack Developer, Software Builder, and Mentor** with **6+ years of experience** building web applications, SaaS platforms, internal business systems, and digital products.
 
-**What I Do:**
-- 🤖 Leverage AI tools (Claude, GitHub Copilot) to enhance development productivity
-- 👨‍🏫 Mentor developers at BuildWithAngga, teaching MERN stack and modern web practices
-- 🏢 Co-Founded [Erai Tech](https://www.erai-tech.com/) - building Point of Sales (POS) application
-- 💼 Co-Founded [CodeAtHome](https://codeathome.id) - software agency and academy for Indonesian tech community
-- 💻 Work with companies like Tree-Tree, Dalenta, Swing, and more
+I enjoy turning business problems into practical software — from designing the architecture and building APIs to creating user-friendly interfaces and deploying applications to production.
 
-**My Approach:**  
-Combining human creativity with AI capabilities to build innovative and efficient solutions.
+Currently, I'm focused on:
+
+- 🚀 Building and growing **SaaS & business applications**
+- 🏢 Developing products at **[Erai Tech](https://www.erai-tech.com/)**
+- 👨‍🏫 Mentoring developers at **[BuildWithAngga](https://buildwithangga.com/mentor/elfinbwa)**
+- 🤖 Using **AI-assisted development** to improve engineering productivity
+- ⚙️ Building scalable **frontend, backend, API, and infrastructure**
+- 💡 Turning real business workflows into useful digital products
+
+> I don't just write code — I build software designed to solve real business problems.
+
+---
+
+## 🏢 What I'm Building
+
+### 🚀 Erai Tech
+
+**Co-Founder & Fullstack Developer**
+
+[Erai Tech](https://www.erai-tech.com/) is a software company focused on building SaaS products and custom digital solutions for businesses.
+
+Some products I'm currently building:
+
+### 🛒 Erai POS
+
+Point of Sale platform designed for retail, F&B, and other businesses.
+
+**Key areas:**
+
+- Cashier & transaction management
+- Product & category management
+- Multi-price support
+- Sales reporting
+- Business & employee management
+- Subscription-based SaaS architecture
+- Multi-tenant system
+
+### 🏟️ Erai Arena
+
+Booking and operational management platform for sports venues and rental businesses.
+
+**Key areas:**
+
+- Online booking
+- Schedule management
+- Venue management
+- Transaction management
+- Business dashboard
+
+### 👥 Erai HRIS
+
+Human Resource Information System for managing employees and company operations.
+
+**Key areas:**
+
+- Employee management
+- Attendance & timesheets
+- Leave management
+- Company working hours
+- Activity logs
+- Company preferences
+
+### 🏛️ Erai SIAP
+
+Digital information and administration system built for organizational and institutional workflows.
+
+### 💌 Bersanding
+
+Digital invitation platform for modern events and weddings.
+
+---
 
 ## 💼 Professional Experience
 
-**Fullstack Developer** @ **[Tree-Tree](https://www.tree-tree.com/)** · *Jan 2022 - Present*
-- Building scalable full-stack applications with modern tech stack
-- Implementing AI-assisted development workflows
+### Fullstack Developer — Tree-Tree
+**Jan 2022 — Present**
 
-**Mentor Backend Developer** @ **[BuildWithAngga](https://buildwithangga.com/mentor/elfinbwa)** · *Mar 2021 - Present*
-- Teaching MERN Stack (MongoDB, Express.JS, Node.JS, React.JS, Next.JS, TypeScript)
-- Mentoring students through real-world projects like Hotel Booking System
+- Develop and maintain scalable full-stack applications
+- Build modern frontend interfaces and backend services
+- Integrate APIs and third-party services
+- Improve application performance and maintainability
+- Apply AI-assisted workflows to accelerate development
 
-**Co-Founder & Developer** @ **[Erai Tech](https://www.erai-tech.com/)** · *July 2025 - Present*
-- Building Point of Sales (POS) application
-- Developing modern web applications and digital products
+### Mentor Backend Developer — BuildWithAngga
+**Mar 2021 — Present**
 
-**Co-Founder & Software Engineer** @ **[CodeAtHome](https://codeathome.id)** · *Sep 2019 - Present*
-- Co-founded software agency and academy for Indonesian tech community
-- Delivering software development services and tech education
-- Building tools and solutions for clients and students
+- Mentor developers in modern JavaScript and backend development
+- Teach Node.js, Express.js, React.js, Next.js, TypeScript, and MongoDB
+- Guide students through real-world software projects
+- Help developers understand architecture and production-ready development
 
-**Full Stack Engineer** @ **Swing** · *Aug 2023 - Jun 2025*
-- Developing full-stack applications with modern technologies
+### Co-Founder & Fullstack Developer — Erai Tech
+**Jul 2025 — Present**
 
-**Back End Developer** @ **PT. Dans Multi Pro** · *Aug 2023 - Mar 2024*
-- Built backend systems for e-commerce solutions with scalable APIs
+- Build SaaS and business applications from idea to production
+- Design frontend, backend, database, and deployment architecture
+- Develop Point of Sale, booking, HRIS, and custom business systems
+- Work directly with businesses to translate operational problems into software solutions
 
-**Software Engineer** @ **[Dalenta](https://dalenta.com/)** · *Sep 2020 - Okt 2022*
-- Developing digital headquarters for business administration and operations
-- Built postal sales system and self-service solutions for MSME
+### Co-Founder & Software Engineer — CodeAtHome
+**Sep 2019 — Present**
 
-**Software Engineer** @ **PT. Rajawali Lestari Inovasi** · *Mar 2019 - Sep 2020*
-- Built SaaS connecting marketplaces to social media
-- Stack: Node.JS, Express.JS, React.JS, MySQL, Redux
+- Co-founded a software agency and technology academy
+- Deliver software development services
+- Build applications for clients and businesses
+- Support technology education for the Indonesian developer community
 
-**Software Engineer** @ **Glovory Technologies Indonesia** · *Mar 2019 - Sep 2019*
-- Developed scalable software solutions
+### Full Stack Engineer — Swing
+**Aug 2023 — Jun 2025**
 
-**Web Developer** @ **Gama Textile** · *Feb 2019 - Nov 2019*
-- Built web and mobile e-commerce platforms
+- Developed and maintained full-stack applications
+- Built features using modern web technologies
+- Integrated frontend applications with backend services
+
+### Backend Developer — PT. Dans Multi Pro
+**Aug 2023 — Mar 2024**
+
+- Developed backend systems and APIs
+- Built services supporting e-commerce applications
+- Worked on scalable server-side architecture
+
+### Software Engineer — Dalenta
+**Sep 2020 — Oct 2022**
+
+- Developed digital business administration platforms
+- Built postal sales and self-service solutions
+- Developed frontend and backend application features
+
+### Software Engineer — PT. Rajawali Lestari Inovasi
+**Mar 2019 — Sep 2020**
+
+- Developed SaaS applications connecting marketplaces and social media
+- Built backend APIs and web applications
+- Worked with Node.js, Express.js, React.js, MySQL, and Redux
+
+### Software Engineer — Glovory Technologies Indonesia
+**Mar 2019 — Sep 2019**
+
+- Developed and maintained scalable software solutions
+- Collaborated on web application development
+
+### Web Developer — Gama Textile
+**Feb 2019 — Nov 2019**
+
+- Developed web and mobile e-commerce applications
+- Built features supporting online sales operations
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
+### Frontend
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**State Management & Tools**
+### Backend
 
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-**Databases**
+### Database
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Cloud & Deployment**
+### DevOps & Deployment
 
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**AI Development**
+### Development Tools
 
-![Claude](https://img.shields.io/badge/-Claude_AI-000000?style=flat-square&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
-## 📚 Currently Learning
+### AI-Assisted Development
+
+![Claude](https://img.shields.io/badge/Claude-AI_Assisted_Development-000000?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered_Development-2D9EF7?style=flat-square)
+
+I use AI as an **engineering accelerator** — helping with architecture exploration, implementation, debugging, code review, documentation, and repetitive development tasks while keeping engineering decisions human-driven.
+
+---
+
+## 🧠 Engineering Focus
 
 ```typescript
-const currentFocus = {
-  architecture: ['Design Patterns', 'Microservices', 'Clean Architecture'],
-  skills: ['Technical Writing', 'Content Creation'],
-  personal: ['Leadership', 'Self Improvement'],
-  ai: ['Prompt Engineering', 'AI-Assisted Development']
+const elfin = {
+  role: "Fullstack Developer",
+  experience: "6+ years",
+
+  focus: [
+    "SaaS Development",
+    "Business Applications",
+    "System Architecture",
+    "API Development",
+    "AI-Assisted Engineering",
+  ],
+
+  frontend: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "NestJS",
+    "Laravel",
+  ],
+
+  database: [
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Supabase",
+  ],
+
+  infrastructure: [
+    "Docker",
+    "Nginx",
+    "VPS",
+    "Vercel",
+  ],
+
+  currentlyBuilding: "Erai Tech 🚀",
 };
 ```
 
+---
+
 ## 🎓 Education & Community
 
-**Universitas Teknokrat Indonesia** · *Computer Science*
-- Active in PROTEK (Programming Teknokrat) community
-- Chairman of project division (2015-2019)
+### Universitas Teknokrat Indonesia
+**Bachelor's Degree — Informatics Engineering**
 
-**Teaching Experience:**
-- Assistant Lecturer, Universitas Teknokrat Indonesia (2017-2019)
-- Instructor, Andaglos Developer Academy (2018-2019)
-  - Fullstack JavaScript & React Native Bootcamp
+- Graduated in **2019**
+- **Top 3 Graduate**
+- Active member of **PROTEK — Programming Teknokrat**
+- Chairman of Project Division
 
-## 📊 GitHub Activity
+### Teaching & Mentoring
+
+**Mentor — BuildWithAngga**
+
+Mentoring developers through real-world application development and modern backend engineering.
+
+**Assistant Lecturer — Universitas Teknokrat Indonesia**  
+2017 — 2019
+
+**Instructor — Andaglos Developer Academy**  
+2018 — 2019
+
+Topics included:
+
+- Fullstack JavaScript
+- React
+- React Native
+- Node.js
+- Backend Development
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elfinsanjaya12&theme=tokyonight&hide_border=true)](https://github.com/elfinsanjaya12)
+
+![Elfin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfinsanjaya12&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfinsanjaya12&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elfinsanjaya12&theme=tokyonight&hide_border=true)
 
 </div>
 
-## 🤝 Let's Connect!
+---
+
+## 🤝 Let's Build Something
+
+I'm interested in collaborating on:
+
+**SaaS · Business Systems · Web Applications · APIs · Digital Products · AI-Assisted Software Development**
+
+Whether it's building a product from scratch, improving an existing system, or turning a business workflow into software — I'm always interested in meaningful engineering challenges.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elfinsanjaya12.github.io)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elfinsanjaya12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfin-sanjaya-15a266176/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elfinsanjaya12/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-elfin.erai--tech.com-2D9EF7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elfin.erai-tech.com/)
+
+[![Erai Tech](https://img.shields.io/badge/Erai_Tech-Building_Digital_Products-111827?style=for-the-badge)](https://www.erai-tech.com/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfin-sanjaya-15a266176/)
+
+[![Email](https://img.shields.io/badge/Email-elfinsanjaya12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elfinsanjaya12@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  
-**💭 "Leveraging AI to build the future, one line of code at a time"**
+
+### Build products. Solve problems. Keep learning. 🚀
+
+**Fullstack Developer · Mentor · Software Builder**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elfinsanjaya12&color=blueviolet&style=flat-square)
 
-© 2024 — Elfin Sanjaya
+© 2026 Elfin Sanjaya
 
 </div>
